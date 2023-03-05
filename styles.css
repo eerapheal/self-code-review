@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Domine&family=Montserrat:wght@100&display=swap');
+
+h1 {
+  font-family: 'Domine', serif;
+}
+
+body {
+  background-color: #6f23ff;
+  font-family: 'Montserrat', sans-serif;
+  margin: 50px 100px 50px 100px;
+  color: white;
+  text-align: center;
+}
+
+#education {
+  text-align: center;
+}
+
+/* html {
+  color: white;
+  min-height: 100%;
+} */
+
+ol {
+  display: inline-block;
+  text-align: left;
+}
+
+#Social {
+  text-align: center;
+}
+
+ul {
+  display: inline-block;
+  text-align: left;
+}
+
+h2 {
+  padding-top: 40px;
+  border-top: 0.5px solid white;
+}
+
+#bio a {
+  color: rgb(25, 248, 248);
+}
+
+.social-media-links {
+  color: #ffd540;
+}
